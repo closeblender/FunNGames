@@ -1,0 +1,16 @@
+{
+"companyName": "Cubic Games",
+"productName": "Fun N Games",
+"productVersion": "0.1",
+"dataUrl": "HostPC.data",
+"wasmCodeUrl": "HostPC.wasm",
+"wasmFrameworkUrl": "HostPC.framework.js",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2020.1.0a11"
+}
